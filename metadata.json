@@ -1,0 +1,5 @@
+{
+  "name": "PrintGuard Manager",
+  "description": "Sistema completo de gestão de ordens de serviço para manutenção de impressoras com IA.",
+  "requestFramePermissions": []
+}
